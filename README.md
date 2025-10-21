@@ -12,6 +12,7 @@ Input Format
    - `n` rows of numbers, each row with `i+1` elements.
 
 Example:
+
 1
 4
 2
