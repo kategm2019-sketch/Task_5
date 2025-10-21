@@ -12,13 +12,12 @@ Input Format
    - `n` rows of numbers, each row with `i+1` elements.
 
 Example:
-
-1
-4
-2
-3 4
-6 5 7
-4 1 8 3
+```1
+```4
+```2
+```3 4
+```6 5 7
+```4 1 8 3
 
 Output Format
 
